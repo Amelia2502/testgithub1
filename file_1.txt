@@ -3,3 +3,5 @@ import seaboarn as sb
 
 #code dari main
 #code dari branch
+
+code eksperimen 2 hari kemaren
